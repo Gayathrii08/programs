@@ -11,6 +11,6 @@ public class Digitcount
     n = n/10;
     count++;
   }
-System.out.println("Digit count of n is" + count");
+System.out.println("Digit count of n is" + count);
  }
 }
