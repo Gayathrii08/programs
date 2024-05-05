@@ -6,7 +6,7 @@ public class OddIndex {
                          for (int i = 0;i<a.length;i++)
                         {
                           if(i%2 != 0)
-                          sum += + i;
+                          sum += i;
                          }
                   System.out.println(sum);
                        }
